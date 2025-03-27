@@ -28,7 +28,6 @@ This repository contains examples demonstrating PHP loops and conditional statem
    ```sh
    php -S 127.0.0.1:8000
 
-
 ## License
 
 This project is open-source. Feel free to use and modify it.
