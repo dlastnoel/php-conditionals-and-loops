@@ -10,7 +10,13 @@ This repository contains examples demonstrating PHP loops and conditional statem
 - **05-match.php** - `match` expression (PHP 8+).  
 - **06-ternary.php** - Ternary operator (`? :`).  
 - **07-null-coalescing.php** - Null coalescing operator (`??`).  
-- **08-for-loop.php** -
+- - **08-for-loop.php** - `for` loop.  
+- **09-while-loop.php** - `while` loop.  
+- **10-do-while-loop.php** - `do-while` loop.  
+- **11-foreach-loop.php** - `foreach` loop for arrays.  
+- **12-break.php** - Using `break` to exit loops.  
+- **13-continue.php** - Using `continue` to skip iterations.  
+
 
 ## Usage  
 1. Clone the repository:  
