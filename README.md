@@ -19,7 +19,7 @@ This repository contains examples demonstrating PHP loops and conditional statem
    cd php-conditionals-and-loops
 
 2. Start a local PHP Server:
-   ``sh
+   ```sh
    php -S 127.0.0.1:8000
 
 
