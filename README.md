@@ -12,6 +12,16 @@ This repository contains examples demonstrating PHP loops and conditional statem
 - **07-null-coalescing.php** - Null coalescing operator (`??`).  
 - **08-for-loop.php** -
 
+## Usage  
+1. Clone the repository:  
+   ```sh
+   git clone (https://github.com/dlastnoel/php-conditionals-and-loops.git)
+   cd php-conditionals-and-loops
+
+2. Start a local PHP Server:
+   ``sh
+   php -S 127.0.0.1:8000
+
 
 ## License
 
